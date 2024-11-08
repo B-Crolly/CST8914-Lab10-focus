@@ -69,7 +69,7 @@ class MenuButtonActions {
     newMenuitem.tabIndex = 0;
     newMenuitem.focus();
 
-    // Optionally, use 'aria-current' to indicate the active item
+    // Use 'aria-current' to indicate the active item
     newMenuitem.setAttribute('aria-current', 'true');
   }
 
