@@ -9,8 +9,9 @@
   display: inline-block;
   position: relative;
   border: 1px solid #045a0d;
+  background: #045a0d;
   font-size: 0.9em;
-  color: black;
+  color: white;
   border-radius: 5px;
 }
 
